@@ -19,7 +19,7 @@ download: [Windows Phone App Store](http://www.windowsphone.com/zh-cn/store/app/
 
 ###class diagram
 
-![image](https://github.com/rugbbyli/Reflector/Imgs/ClassDiagram.png)
+![image](https://github.com/rugbbyli/Reflector/blob/master/Imgs/ClassDiagram.png)
 
 Reflector-World Creator
 -----------
@@ -28,4 +28,4 @@ World Creator is a program to create Reflector's world data, using wpf write.
 
 ###preview
 
-![image](https://github.com/rugbbyli/Reflector/Imgs/wc.png)
+![image](https://github.com/rugbbyli/Reflector/blob/master/Imgs/wc.png)
