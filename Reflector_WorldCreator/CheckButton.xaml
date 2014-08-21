@@ -1,0 +1,16 @@
+﻿<UserControl x:Name="userControl" x:Class="Reflector_WorldCreator.ImageCheckButton"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid>
+        <Image Name="image" Source="{Binding Source, ElementName=userControl}" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <RotateTransform CenterX="0.5" CenterY="0.5"/>
+            </Image.RenderTransform>
+        </Image>
+        <Rectangle Name="border" Stroke="White" Fill="Transparent" StrokeThickness="2" Visibility="Collapsed"/>
+    </Grid>
+</UserControl>

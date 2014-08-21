@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Reflector.Game1" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAMFAAABABAyAgAAAgQAAQAAAAGBmBAAwCBggBACY=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reflector.AboutPage" Collapsed="true">
+    <Position X="6" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BAQAAUAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>AboutPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reflector.BackgroundPage" Collapsed="true">
+    <Position X="6" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AEQAAEEAAAAIAwACAAgAAAAAAAAAAAAAAAQAAAAAAAQ=</HashCode>
+      <FileName>BackgroundPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reflector.Button" Collapsed="true">
+    <Position X="9" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAASAAAAAAAgAAAEAACAAAAAABAAA8AAAAAAAQAAA=</HashCode>
+      <FileName>Button.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reflector.WorldButton" Collapsed="true">
+    <Position X="9" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Button.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reflector.ControlPanel" Collapsed="true">
+    <Position X="9" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAAAgARgA8AAEAAACAgAGAAAYABABgAAAAMAE=</HashCode>
+      <FileName>ControlPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reflector.GamePage" Collapsed="true">
+    <Position X="6" Y="4" Width="2" />
+    <InheritanceLine Type="Microsoft.Xna.Framework.DrawableGameComponent" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.875" Y="2.927" />
+        <Point X="6.875" Y="3.77" />
+        <Point X="6.875" Y="3.77" />
+        <Point X="6.875" Y="4" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAQAAEAEABAAAwAAAAAQAAAAAQAAAAEAAAAgAAAAAAQ=</HashCode>
+      <FileName>GamePage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reflector.HelpPage" Collapsed="true">
+    <Position X="6" Y="6.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAAAwAMAAAAAAAAAAAAAAAMAAAAAAAAIAQ=</HashCode>
+      <FileName>HelpPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reflector.Hole" Collapsed="true">
+    <Position X="1" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAEAAAAAggAAAAAAAAAAAAACAAAAAAABAAAQACA=</HashCode>
+      <FileName>Hole.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Reflector.LevelSelectPage" Collapsed="true">
+    <Position X="6" Y="7" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAAAwAAAAAAAAAAAAAAAAABAAAAAAAAAAQ=</HashCode>
+      <FileName>LevelSelectPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reflector.MenuPage" Collapsed="true">
+    <Position X="6" Y="7.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAYAAWAEIhAAAwCgEAAUAAgAgAAIAAABAAAgIAIEAAQ=</HashCode>
+      <FileName>MenuPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reflector.Lens" Collapsed="true">
+    <Position X="2.75" Y="7.75" Width="1.5" />
+    <InheritanceLine Type="Reflector.Sprite" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="3.625" Y="2.677" />
+        <Point X="3.625" Y="2.977" />
+        <Point X="4.56" Y="2.977" />
+        <Point X="4.56" Y="8.35" />
+        <Point X="4.25" Y="8.35" />
+        <Point X="4.25" Y="8.188" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>QABAAAIAAAgAAgEABAAAAAgAgRACAgABICABSAgIMCA=</HashCode>
+      <FileName>Mirror.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.141" />
+  </Class>
+  <Class Name="Reflector.Mirror" Collapsed="true">
+    <Position X="1.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAgAAAAAAAAAAAAAABACAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Mirror.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reflector.Prism" Collapsed="true">
+    <Position X="3.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAAAAAAAwAgAAAAAAAAAAAABACAAAABAAAAAAAIAI=</HashCode>
+      <FileName>Mirror.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reflector.SpriteBase" Collapsed="true">
+    <Position X="1.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Sprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reflector.Sprite" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAABBAAkgAAAAAAAEAAAAAggAAoAEAggAgQYAA=</HashCode>
+      <FileName>Sprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reflector.Laser" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <InheritanceLine Type="Reflector.Sprite" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="3.625" Y="2.677" />
+        <Point X="3.625" Y="3.16" />
+        <Point X="3.625" Y="3.16" />
+        <Point X="3.625" Y="3.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAgAAQgAAAAAAAAAAIAAAAAAAIAgBAAAAAAA=</HashCode>
+      <FileName>Sprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reflector.Emitter" Collapsed="true">
+    <Position X="2.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Sprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reflector.Receiver" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAACA=</HashCode>
+      <FileName>Sprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reflector.Switch" Collapsed="true">
+    <Position X="2.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAACA=</HashCode>
+      <FileName>Sprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reflector.Wall" Collapsed="true">
+    <Position X="2.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Sprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reflector.Level" Collapsed="true">
+    <Position X="2.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reflector.Star" Collapsed="true">
+    <Position X="9" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAgAAAAAAIBAAIAAJAAAAAAAAAAAAA=</HashCode>
+      <FileName>Star.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reflector.StartPage" Collapsed="true">
+    <Position X="6" Y="8.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEABAAAIB0MAABgAAAAgAAAGAAA8AAAAAAAAAAQ=</HashCode>
+      <FileName>StartPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reflector.StorageHelper" Collapsed="true">
+    <Position X="9" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EEAAAAgAAAIAAgQAAAAAAAAIBIAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>StorageHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reflector.WorkingArea" Collapsed="true">
+    <Position X="9" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEKAAgAAUgAAAISAABAAiAAEEUYAAQJAAACA4IA=</HashCode>
+      <FileName>WorkingArea.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reflector.WorldSelectPage" Collapsed="true">
+    <Position X="6" Y="9.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAEEAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>WorldSelectPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Xna.Framework.DrawableGameComponent" Collapsed="true">
+    <Position X="5.75" Y="2.25" Width="2.25" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Reflector.LightableObject" Collapsed="true">
+    <Position X="9" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mirror.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Reflector.PageType" Collapsed="true">
+    <Position X="9" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAGAgAAAAAAAQAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Reflector.ControlPanelStyle" Collapsed="true">
+    <Position X="9" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>ControlPanel.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Reflector.Colors" Collapsed="true">
+    <Position X="9" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAgAAAAAAAAIUAAAAAAAAAAAAIAAAAAAABgA=</HashCode>
+      <FileName>Sprite.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
