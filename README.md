@@ -8,6 +8,7 @@ Players need to use all sorts of tools to affect its color and direction, and ac
 This program uses XNA as its frame, and C# as develop language. 
 
 download: [Windows Phone App Store](http://www.windowsphone.com/zh-cn/store/app/reflector/df56136f-292f-4719-a0a2-76dd1b1144b8)
+
 tutorial: [WinDever.com](http://bbs.windever.com/thread-7323-1-1.html)
 
 ###preview
